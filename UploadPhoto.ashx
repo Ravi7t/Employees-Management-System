@@ -1,0 +1,1 @@
+﻿<%@ WebHandler Language="C#" CodeBehind="UploadPhoto.ashx.cs" Class="Assignment1_Assignment2.UploadPhoto" %>
